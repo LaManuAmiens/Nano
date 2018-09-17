@@ -1,4 +1,4 @@
-# Nano exercice
+# Nano exercices
 Les exercices sont à faire uniquement avec **nano** et la ligne de commande
 
 ## Exercice 1
